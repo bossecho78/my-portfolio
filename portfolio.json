@@ -1,0 +1,53 @@
+{
+  "name": "Jericho L. Maghilom",
+  "age": "23",
+  "nickname": "Echo",
+  "introduction": "I’m a 4th-year IT student at Bestlink College of the Philippines. I love coding, and I’ve developed several project systems—both to improve my own skills and to help fellow students.",
+  "options": ["Get Advice", "Tell Me a Joke"],
+  "skills": ["PHP", "JavaScript", "CSS", "MySQL", "Tailwind CSS", "Bootstrap"],
+  "education": [
+    {
+      "school": "Bestlink College of the Philippines",
+      "level": "College",
+      "status": "4th Year IT Student (Present)",
+      "details": "Currently pursuing my Bachelor’s degree in Information Technology, focusing on software development, system design, and web technologies."
+    },
+    {
+      "school": "Asia Pacific School of Arts and Sciences (APSAS)",
+      "level": "Senior High School – ICT Strand",
+      "details": "Specialized in Information and Communications Technology, building a strong foundation in programming and IT fundamentals."
+    },
+    {
+      "school": "Ernesto Rondon High School",
+      "level": "Junior High School",
+      "details": "Completed my junior high school education with a focus on academics and extracurricular activities."
+    },
+    {
+      "school": "Project 6 Elementary School",
+      "level": "Elementary",
+      "details": "Where my academic journey began, shaping my early love for learning and curiosity."
+    }
+  ],
+  "hobbies_interests": {
+    "music": {
+      "instrument": "Guitar",
+      "description": "I enjoy playing guitar and expressing myself through music, whether acoustic or electric."
+    },
+    "games": [
+      "League of Legends (PC)",
+      "Wild Rift",
+      "Mobile Legends",
+      "Honor of Kings",
+      "Call of Duty Mobile"
+    ],
+    "artists": {
+      "local": ["Arthur Nery", "Hellmerry", "Shantidope", "O Side Mafia", "Al James", "Supafly"],
+      "foreign": ["Bruno Mars", "Taylor Swift", "Ed Sheeran"]
+    }
+  },
+  "social_media": {
+    "facebook": "https://facebook.com/jerixhococs",
+    "instagram": "https://instagram.com/jericho_lym",
+    "email": "bossecho78@gmail.com"
+  }
+}
