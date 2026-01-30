@@ -5,7 +5,7 @@ header("Content-Type: application/json");
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
 
-$apiKey = "AIzaSyCNB8fXsMwHhWOFAOb_OrudET2UYG2k5N4"; // 🔑 Replace with your Gemini API key
+$apiKey = "AIzaSyBV-YzLSg1i3_Vw1vcAJsxWJiHR3RuEwoQ"; // 🔑 Replace with your Gemini API key
 $model = "gemini-2.0-flash"; // ✅ Correct model
 $input = json_decode(file_get_contents("php://input"), true);
 $userMessage = $input["message"] ?? "";
